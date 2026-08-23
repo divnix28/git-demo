@@ -1,0 +1,20 @@
+# 1. Compiled C++ Binaries
+run
+*.out
+*.exe
+*.o
+
+# 2. Python Caches & Environments
+__pycache__/
+*.pyc
+venv/
+
+# 3. VS Code Workspace Settings
+.vscode/
+
+# 4. Machine Learning Datasets
+*.csv
+*.dat
+
+# 5. Security & Secrets
+.env
